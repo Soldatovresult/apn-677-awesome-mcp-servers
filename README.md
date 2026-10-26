@@ -88,6 +88,7 @@
 | **Google Drive** | [github.com/isaacphi/mcp-gdrive](https://github.com/isaacphi/mcp-gdrive) | Google Drive 파일 읽기 및 Google Sheets 편집 | `npx -y @isaacphi/mcp-gdrive` |
 | **Google Sheets** | [github.com/xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) | Google Sheets 생성 및 수정 통합 | `uvx mcp-google-sheets@latest` |
 | **Notion** (Official) | [github.com/makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) | Notion 공식 - 데이터베이스, 페이지 시맨틱 검색 | `npx -y @notionhq/notion-mcp-server` |
+| **Agent Payment Node** | [github.com/nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) | x402 제안 확인, 한도 내 결제 준비, 상태 및 영수증 조회용 로컬 stdio 도구; Apple Silicon macOS와 Node 24 전용 | `brew install nuanu-ai/tap/apn` |
 | **Stripe** (Official) | [github.com/stripe/ai](https://github.com/stripe/ai) | Stripe 공식 결제 API - 고객, 상품, 결제 관리 | `npx -y @stripe/mcp --tools=all --api-key=SK_KEY` |
 | **Salesforce** (Official) | [github.com/salesforcecli/mcp](https://github.com/salesforcecli/mcp) | Salesforce CRM 공식 - SOQL 쿼리, 메타데이터 관리 | `npx -y @salesforce/mcp` |
 | **Linear** | [linear.app/docs/mcp](https://linear.app/docs/mcp) | 프로젝트/이슈 관리 - 스타트업에 최적화 | `npx -y mcp-remote https://mcp.linear.app/mcp` |
